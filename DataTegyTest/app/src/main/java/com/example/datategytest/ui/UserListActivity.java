@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.databinding.adapters.ToolbarBindingAdapter;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
 import com.example.datategytest.application.BaseApplication;
